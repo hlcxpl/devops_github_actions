@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-"scripts": {
- "start": "node src/app.js",
- "test": "jest"
-},
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
