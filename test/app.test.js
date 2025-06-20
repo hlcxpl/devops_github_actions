@@ -13,3 +13,7 @@ describe('GET /api/inmuebles', () => {
         expect(res.body[0]).toHaveProperty('precio');
     });
 });
+
+test('App loads', () => {
+    expect(1 + 1).toBe(2);
+});
